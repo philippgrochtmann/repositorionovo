@@ -14,7 +14,8 @@ namespace ConsoleApp2
 
             Console.WriteLine(Points(levels));
             Console.ReadLine();
-            int tempo = 5;
+            //int tempo = 5;
+            //teste
 
         }
         

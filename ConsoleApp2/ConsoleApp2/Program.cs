@@ -17,6 +17,7 @@ namespace ConsoleApp2
             //int tempo = 5;
             //teste8
             //teste 34
+            //34
         }
         
         static int Points(int levels)
